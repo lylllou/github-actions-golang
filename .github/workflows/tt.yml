@@ -16,4 +16,3 @@ jobs:
       uses: action/checkout@v3
     - name: Test
       run: go test ./...
-
